@@ -1,5 +1,5 @@
-# tooltip
-각종 툴 사용 팁
+## 각종 툴 혹은 꿀팁 모음
+
 
 # 1.DBEAVER
 https://3rdscholar.tistory.com/83
