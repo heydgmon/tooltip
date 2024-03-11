@@ -29,3 +29,4 @@ server:
         
 logging.path: 경로
 
+# Run Configurations에서 -Dspring.profiles.active=dev 이런식으로 설정하면 위에 설정한거로 붙음
