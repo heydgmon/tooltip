@@ -1,9 +1,9 @@
 ## 각종 툴 혹은 꿀팁 모음
 
 
-# 1.DBEAVER
+# DBEAVER
 https://3rdscholar.tistory.com/83
-# 2.git
+# git
 https://learngitbranching.js.org/?locale=ko
 # springboot에서 application.yml이란? 환경설정을 뜻함
 예시)
