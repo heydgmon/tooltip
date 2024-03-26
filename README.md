@@ -36,3 +36,5 @@ Run Configurations에서 -Dspring.profiles.active=dev 이런식으로 설정하�
 
 # 인텔리제이 실행 창 : View -> Tool Windows -> Run
 # Git log 창 : git->show git log
+#TCP DUMP TCP 로그 보는법 :
+https://discourse.ubuntu-kr.org/t/tcpdump-flags-s/23600
