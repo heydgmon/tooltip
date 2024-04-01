@@ -38,3 +38,17 @@ Run Configurations에서 -Dspring.profiles.active=dev 이런식으로 설정하�
 # Git log 창 : git->show git log
 #TCP DUMP TCP 로그 보는법 :
 https://discourse.ubuntu-kr.org/t/tcpdump-flags-s/23600
+
+# Gradle 표준 레이아웃 (기본 구조)
+Gradle을 사용하는 프로젝트에서도 Maven과 유사하게 'src/main/resources' 디렉터리가 주로 사용됩니다. 
+gradle-project-root
+|-- src
+|   |-- main
+|   |   |-- java          // Java 소스 코드
+|   |   |-- resources     // 웹 애플리케이션 관련 리소스 파일 (프로퍼티 파일, XML 파일 등, HTML, CSS, JavaScript 등)
+|   |-- test
+|       |-- java          // 테스트용 Java 소스 코드
+|       |-- resources     // 테스트 리소스 파일
+|-- build                 // 빌드 결과물이 생성되는 디렉토리
+|-- build.gradle          // Gradle 프로젝트 설정 파일
+ 
