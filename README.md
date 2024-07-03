@@ -51,4 +51,8 @@ gradle-project-root
 |       |-- resources     // 테스트 리소스 파일
 |-- build                 // 빌드 결과물이 생성되는 디렉토리
 |-- build.gradle          // Gradle 프로젝트 설정 파일
+
+
+# Spring boot Process finished with exit code 0 해결
+https://blockchain-baam.tistory.com/58
  
